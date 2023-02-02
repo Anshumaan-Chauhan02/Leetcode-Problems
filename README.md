@@ -1,5 +1,5 @@
 <h2 align='center'><b> LeetCode Problems </b></h2>
-<img width='1500' height='300' src="https://user-images.githubusercontent.com/98472023/216378283-b8646066-e31c-4e20-92b6-005685800754.png" alt="my banner"> 
+<img width='1500' height='300' src="https://user-images.githubusercontent.com/98472023/216380085-d5f2a66e-4e7d-475b-b0c5-d4690efe817e.png" alt="my banner"> 
 
 <h4 align='center'> Project Description </h4> 
 This repository provides solutions to some of the problems I have solved on LeetCode  <br><br>
