@@ -11,6 +11,6 @@ This repository provides solutions to some of the problems I have solved on Leet
 
 | LeetCode  | Solved |
 | ----------| ------ |
-| Easy      |  5     |
+| Easy      |  7     |
 | Medium    |  1     |
 | Hard      |  1     |
